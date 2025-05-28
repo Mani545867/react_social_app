@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My 1st Posts",
+      "datetime": "july 12, 2025 01:26:40 PM",
+      "body": "1 devie conneted your mobile data"
+    },
+    {
+      "id": "2",
+      "title": "My 2nd Posts",
+      "datetime": "july 22, 2025 03:26:40 PM",
+      "body": "Hii i am dell, "
+    }
+  ]
+}
